@@ -2,7 +2,7 @@ const express = require('express')
 const http= require('http')
 const app = express() 
 const LINKEDIN_URL = 'https://linkedin.com/in/aviggiano'
-const PORT = 3000
+const PORT = 8080
 
 app.set('port', process.env.PORT || PORT)
 
