@@ -1,0 +1,23 @@
+{
+  "name": "linkedin-redirect",
+  "version": "1.0.0",
+  "description": "Redirects all requests to my linkedin profile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviggiano/linkedin-redirect.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aviggiano/linkedin-redirect/issues"
+  },
+  "homepage": "https://github.com/aviggiano/linkedin-redirect#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "http": "^0.0.0"
+  }
+}
